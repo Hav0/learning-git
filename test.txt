@@ -1,5 +1,9 @@
 TESTING
 most recently added
 *changes here*
+<<<<<<< Updated upstream
 
+=======
+The above 
+>>>>>>> Stashed changes
 HERE
